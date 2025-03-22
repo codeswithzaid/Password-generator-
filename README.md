@@ -33,7 +33,7 @@ User-friendly interface 🎨
 
 🌐 Live Demo
 
-🔗 Click here to use the Password Generator
+🔗 Click here to use the Password Generator https://codeswithzaid.github.io/Password-generator-/
 
 📌 Technologies Used
 
